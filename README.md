@@ -1,4 +1,4 @@
-# Job-Listings-Web-Scraper-
+# Job-Listings-Web-Scraper
 
 
 # This is a ongoing Webscraping project will be completed soon!!
